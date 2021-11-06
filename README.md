@@ -1,4 +1,4 @@
-# cubos-vue
+# Testando como adquirir api e fazer busca mais especifica em Framework Vue.js - PedFarma
 
 ## Project setup
 ```
